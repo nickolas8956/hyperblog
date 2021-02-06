@@ -42,26 +42,16 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> footer
-=======
->>>>>>> footer
+
 #container h1
 {
     font-size: 20px;
 }
 #post
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
     background: white;
     padding: 1em;
-=======
-=======
->>>>>>> footer
     padding: 1em;
 }
 #footer
@@ -70,9 +60,4 @@ body
     color: white;
     text-align:center;
     padding: 0.5em;
-
-<<<<<<< HEAD
->>>>>>> footer
-=======
->>>>>>> footer
 }
